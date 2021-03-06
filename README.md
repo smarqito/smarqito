@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi! I'm Marco António Sousa ✨
+
+I'm a 2nd yr student of Software Engeneering at University of Minho (@UMinho).
+
+Currently working in a few projects, web and mobile app. 
+
+- The web app has the back-end developed in .NET 5 (w/ IronPdf, Automapper, EF, Identity and so on) and the front-end in React Typescript. Some of the features are user and customer management; multi-address and multi-store by customer; debit and creation reports...
+- The mobile app has been developed in Java and I'm fixing bugs and building some new features
+- Developing a .NET with razor pages to work as a helper to a main desktop app. Currently being in use at a barcode scanner to show products info. A lot of feature to develop in the future.
+
+Strong knowledge of the market and happy as a freelancer.
+
+Feel free to contact me by discord @**403 Genius Overflow#3836**
+
 
 <!--
 **smarqito/smarqito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
