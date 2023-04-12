@@ -1,16 +1,20 @@
 ### Hi! I'm Marco António Sousa ✨
 
-I'm a 3rd yr student of Software Engeneering at University of Minho (@UMinho).
+I'm a Software Engeneer, currently working at MedicineOne (@M1).
 
 🔭 I’m currently working on:
-- Web based app with the back-end developed in .NET 5 (w/ ORM, Authentication, Pdf Creation and Modification) and the front-end in React Typescript. Some of the features are user and customer management; multi-address and multi-store by customer; multiple type of reports...
+- Angular web client for teleconsultation (amazon cognito auth, NgRx, Rxjs, ...)
+- Backend development of multiple API for paperless prescription management, with ERP interop and frontend client
+- Web based app with the back-end developed in .NET 6 (w/ ORM, Authentication, Pdf Creation and Modification) and the front-end in React Typescript. Some of the features are user and customer management; multi-address and multi-store by customer; multiple type of reports...
+- Migrating previous platform from React to Angular due to stability.
 - Developing a .NET with razor pages to work as a helper to a main desktop app. Currently being in use at a barcode scanner to show products info. A lot of feature to develop in the future.
 - App to communicate invoices and transport documents with the Government Finances Institution (SOAP architecture) using WCF framework.
 
-💬 Ask me about Software Architecture, Algorithms, Data Structures, Java, C#, .NET, UML...
+💬 Ask me about Software Architecture, Algorithms, Data Structures, Python, Bash, Java, C#, .NET, UML...
 
 - 📫 How to reach me:
 Discord @**403 Genius Overflow#3836**
+Email developer<at>marcosousa<dot>eu
 
 
 <!--
